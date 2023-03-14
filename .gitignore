@@ -148,4 +148,4 @@ cython_debug/
 
 *.dump
 # modules
-steps
+\steps
